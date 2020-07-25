@@ -1,0 +1,19 @@
+{
+  "name": "sams_cakes",
+  "version": "1.0.0",
+  "description": "a cake shop made with Electron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CapitanMazapan/Sams-Cakes_Rojo_Hernandez.git"
+  },
+  "author": "Viviana Rojo y Luis Hernández",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CapitanMazapan/Sams-Cakes_Rojo_Hernandez/issues"
+  },
+  "homepage": "https://github.com/CapitanMazapan/Sams-Cakes_Rojo_Hernandez#readme"
+}
